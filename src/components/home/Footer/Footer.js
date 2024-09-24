@@ -39,7 +39,7 @@ const Footer = () => {
           looking style.
             </p>
             <ul className="flex items-center gap-2">
-              <a
+              {/* <a
                 href=""
                 target="_blank"
                 rel="noreferrer"
@@ -47,9 +47,9 @@ const Footer = () => {
                 <li className="w-7 h-7 bg-primeColor text-gray-100 hover:text-white cursor-pointer text-lg rounded-full flex justify-center items-center hover:bg-black duration-300">
                   <FaYoutube />
                 </li>
-              </a>
+              </a> */}
               <a
-                href=""
+                href="https://github.com/vaibhavpatil2112"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -58,7 +58,7 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                href=""
+                href="https://github.com/vaibhavpatil2112"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -67,7 +67,7 @@ const Footer = () => {
                 </li>
               </a>
               <a
-                href=""
+                href="https://www.linkedin.com/in/vaibhav-patil-/"
                 target="_blank"
                 rel="noreferrer"
               >
